@@ -1,3 +1,4 @@
+[Uploading nim-1.6.6_x32.zip…]()
 # IDS347
 ### OL
 1. 2
@@ -14,3 +15,7 @@
 * ger
 * ger
 * erg
+--------------------
+
+*Cursiva*
+**negrua**
